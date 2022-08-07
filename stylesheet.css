@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+.title {
+    color: #0213ccf5;
+  }
+body {
+    background-color:#ff0000fd;
+  }
